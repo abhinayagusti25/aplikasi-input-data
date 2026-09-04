@@ -1,0 +1,6 @@
+{
+  "name": "Interview Data Collection",
+  "description": "A mobile interview data collection app for conducting structured respondent surveys, capturing photos, and syncing to Google Drive.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
